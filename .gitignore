@@ -1,6 +1,7 @@
-# Compiled class file
+tmp
+# C ompiled class file
 *.class
-
+  
 # Log file
 *.log
 
